@@ -1,5 +1,3 @@
-formas de enviar formularios para o backend
-
 <h1>Formulários em HTML</h1>
 <h2>Definição de Formulários</h2>
 <ul>
